@@ -10,3 +10,10 @@ header {
 section {
   padding: 150px 0;
 }
+
+li {
+  list-style-image: url(/right-arrow.svg);
+  /* OR */
+  list-style-type: '🌿';
+  padding-inline-start: 1ch;
+}
