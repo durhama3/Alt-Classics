@@ -11,7 +11,8 @@ section {
   padding: 150px 0;
 }
 
-li {
-  list-style-type: '🌿';
+dd {
+  display: list-item;
+  list-style-type: "🌿";
   padding-inline-start: 1ch;
 }
