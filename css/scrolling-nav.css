@@ -12,8 +12,6 @@ section {
 }
 
 li {
-  list-style-image: url(/right-arrow.svg);
-  /* OR */
   list-style-type: '🌿';
   padding-inline-start: 1ch;
 }
